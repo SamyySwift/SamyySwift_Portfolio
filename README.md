@@ -8,4 +8,4 @@ I used a LogisticRegression model for this classification problem which was able
 ## **Project Overview**
 In this Project, I trained a Convolutional neural network to recognize features in an image where the subject can be anywhere in the image. I did this by building a horses-or-humans classifier that will tell us if a given image contains a horse or a human, where the network is trained to recognize features that determine which is which.
 
-![](/images/human%20or%20horse%20.png)
+![zlt text](/images/human%20or%20horse%20.png)
