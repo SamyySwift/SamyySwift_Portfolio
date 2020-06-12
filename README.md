@@ -1,4 +1,4 @@
-# **[Project 1: Heart Disease Classifier](https://github.com/SamyySwift/heart_disease_classifier)**
+# **[Project 1: Heart_Disease_Classifier](https://github.com/SamyySwift/heart_disease_classifier)**
 
 ![](/images/heart_disease.jpg)
 
@@ -8,9 +8,9 @@ I used a LogisticRegression model for this classification problem which was able
 
 
 
-# **[Project 2: Real world image classifier](https://github.com/SamyySwift/Real-world-image-classifier)**
+# **[Project 2: Real_World_Image_Classifier](https://github.com/SamyySwift/Real-world-image-classifier)**
 
-![](/images/human%20or%20horse%20.png)
+![](/images/human_horse.png)
 
 ## **Project Overview**
 In this Project, I trained a Convolutional neural network to recognize features in an image where the subject can be anywhere in the image. I did this by building a horses-or-humans classifier that will tell us if a given image contains a horse or a human, where the network is trained to recognize features that determine which is which.
