@@ -3,7 +3,7 @@
 In this project, I built a heart disease classifier to predict whether or not a person has a heart disease or not. This could be helpful for doctors who are new to the field to make better predictions and avoid error while predicting.
 I used a LogisticRegression model for this classification problem which was able to predict the target with an accuracy score of 95% after minimal hyperparameter tuning.
 
-![](/images/heart%20disease.jpg)
+![](/images/heart disease.jpg)
 
 # **[Project 2: Real world image classifier](https://github.com/SamyySwift/Real-world-image-classifier)**
 ## **Project Overview**
@@ -11,7 +11,8 @@ In this Project, I trained a Convolutional neural network to recognize features 
 
 ![](/images/human%20or%20horse%20.png)
 
-# Payment_Card_Fraud_Detection
+
+# [Payment_Card_Fraud_Detection](https://github.com/SamyySwift/Credit_Card_Fraud_Detection)
 
 ![](/images/fraud_detection.png)
 
