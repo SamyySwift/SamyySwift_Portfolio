@@ -12,7 +12,8 @@ In this Project, I trained a Convolutional neural network to recognize features 
 ![](/images/human%20or%20horse%20.png)
 
 
-# [Payment_Card_Fraud_Detection](https://github.com/SamyySwift/Credit_Card_Fraud_Detection)
+
+# [Project 2: Payment_Card_Fraud_Detection](https://github.com/SamyySwift/Credit_Card_Fraud_Detection)
 
 ![](/images/fraud_detection.png)
 
