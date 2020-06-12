@@ -15,7 +15,7 @@ I used a LogisticRegression model for this classification problem which was able
 ## **Project Overview**
 In this Project, I trained a Convolutional neural network to recognize features in an image where the subject can be anywhere in the image. I did this by building a horses-or-humans classifier that will tell us if a given image contains a horse or a human, where the network is trained to recognize features that determine which is which.
 
-# [Project 3: Credit_Card_Fraud_Detection](https://github.com/SamyySwift/Credit_Card_Fraud_Detection)
+# **[Project 3: Credit_Card_Fraud_Detection](https://github.com/SamyySwift/Credit_Card_Fraud_Detection)**
 
 ![](/images/fraud_detection.png)
 
